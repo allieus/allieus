@@ -1,6 +1,6 @@
 # Ask Company
 
-![](./assets/profile01.jpg)
+![](assets/profile01.jpg)
 
 당신의 파이썬/장고 페이스메이커가 되겠습니다.
 
