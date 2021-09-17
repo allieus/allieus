@@ -10,7 +10,7 @@
 + Slack
     - [초대장 받기](https://askcompany-kr.slack.com/join/shared_invite/zt-dyljnuxh-s_IBU5G42JCPWpDlmAgwuA)
     - [Slack 주소](https://askcompany-kr.slack.com/)
-+ [<리액트와 함께 장고 시작하기 Complete> 온라인 강의](https://educast.com/course/web/ZU53)
++ 인프런 [<파이썬/장고 웹서비스 개발 완력 가이드 with 리액트>](https://www.inflearn.com/course/파이썬-장고-웹서비스?inst=6a0dda6d) 온라인 강의
     - 파이썬/장고/리액트의 탄탄한 시작을 도와드리겠습니다.
 
 me@askcompany.kr
