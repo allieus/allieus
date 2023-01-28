@@ -4,7 +4,6 @@
 
 + https://pyhub.kr, me@pyhub.kr
 + [페이스북 그룹: Ask Company with Django/React](https://www.facebook.com/groups/askdjango)
-  - 다양한 파이썬/크롤링/장고/리액트 질문 환영합니다. :-)
 
 + 온라인 강의
   - 인프런 [<장고 설계철학으로 시작하는 파이썬/장고 입문>](https://www.inflearn.com/course/%EC%9E%A5%EA%B3%A0-%EC%84%A4%EA%B3%84%EC%B2%A0%ED%95%99-%EC%9E%85%EB%AC%B8?inst=6a0dda6d)
